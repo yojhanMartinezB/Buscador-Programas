@@ -59,3 +59,5 @@ en la zona Y el trafico esta demaciado lento, o que carrera es mejor tomar.
 
 Autor :
 Yojhan Martinez Betancourth
+
+los resultados obtenidos lo puedes visualizar en el apartado de arribas junto a los archivos: trafico_nocturno y graico_velocidad, los cuales son el resultado visual del nivel de congestionamiento de la candelaria 
