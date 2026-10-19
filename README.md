@@ -1,2 +1,3 @@
 # Buscador-Programas
-Buscador de programas académicos mediante prefijos en Python
+Buscador de Programas Académicos por Prefijos
+
